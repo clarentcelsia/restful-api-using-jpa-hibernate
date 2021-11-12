@@ -17,7 +17,7 @@ public class Main implements CommandLineRunner{
     public static void main(String[] args)  {
         SpringApplication.run(Main.class, args);
 
-        /* Connect to PostgresDB Manually Without Spring Configuration. */
+        /* Connect to PostgresDB Manually. */
         //DBConnector db = new DBConnector();
         //db.connect();
     }
