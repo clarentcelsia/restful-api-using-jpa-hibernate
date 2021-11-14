@@ -17,3 +17,5 @@ INFO:
 https://stackoverflow.com/questions/35707469/how-can-i-mock-db-connection-in-spring-boot-for-testing-purpose.
 
 p.s. Lihat 'Access Database and Web Server (API) Using JDBC Template'
+
+More deets: @Query and @Modifying https://www.baeldung.com/spring-data-jpa-modifying-annotation
